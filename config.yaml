@@ -14,7 +14,8 @@ ollama:
   model: "llama3:8b"
 
 tts:
-  voice: "ko-KR-SunHiNeural"
+  voice_jace: "ko-KR-SunHiNeural"
+  voice_ai: "ko-KR-InJoonNeural"
   rate: "-5%"
   volume: "+0%"
 

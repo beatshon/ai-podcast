@@ -1,7 +1,7 @@
 """
 Podcast RSS(feed.xml) 자동 생성.
-- data/episode_script.json + public/episodes/{slug}.mp3 존재 시에만 진행
-- data/episodes.json 누적 관리, public/feed.xml 생성 (feedgen + iTunes extension)
+- data/episode_script.json + episodes/{slug}.mp3 존재 시에만 진행
+- data/episodes.json 누적 관리, 프로젝트 루트 feed.xml 생성 (feedgen + iTunes extension)
 """
 import json
 import logging
@@ -14,9 +14,8 @@ from feedgen.feed import FeedGenerator
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-PUBLIC = ROOT / "public"
-EP_DIR = PUBLIC / "episodes"
-FEED_PATH = PUBLIC / "feed.xml"
+EP_DIR = ROOT / "episodes"
+FEED_PATH = ROOT / "feed.xml"
 EPISODES_JSON = DATA / "episodes.json"
 SCRIPT_JSON = DATA / "episode_script.json"
 UTC = timezone.utc
@@ -62,7 +61,7 @@ def load_episode_script():
 
 
 def ensure_mp3_exists(slug: str) -> bool:
-    """public/episodes/{slug}.mp3 존재 여부. 없으면 로그 후 False."""
+    """episodes/{slug}.mp3 존재 여부. 없으면 로그 후 False."""
     mp3_path = EP_DIR / f"{slug}.mp3"
     if not mp3_path.exists():
         LOG.warning("mp3 not found: %s (기존 episodes만 URL 갱신)", mp3_path)
@@ -83,7 +82,7 @@ def refresh_episode_urls(cfg: dict, episodes: list) -> None:
 
 
 def ensure_txt_exists(slug: str, script: str) -> Path:
-    """public/episodes/{slug}.txt 없으면 script로 생성."""
+    """episodes/{slug}.txt 없으면 script로 생성."""
     txt_path = EP_DIR / f"{slug}.txt"
     if not txt_path.exists() and script:
         try:
@@ -158,7 +157,7 @@ def warn_if_example_site_url(cfg: dict) -> None:
 
 
 def build_feed_xml(cfg: dict, episodes: list) -> None:
-    """config podcast 값으로 public/feed.xml 생성. feedgen + podcast(itunes) extension."""
+    """config podcast 값으로 루트 feed.xml 생성. feedgen + podcast(itunes) extension."""
     podcast = cfg["podcast"]
     fg = FeedGenerator()
     fg.load_extension("podcast")
@@ -189,7 +188,6 @@ def build_feed_xml(cfg: dict, episodes: list) -> None:
         fe.enclosure(ep.get("mp3", ""), 0, "audio/mpeg")
 
     try:
-        PUBLIC.mkdir(parents=True, exist_ok=True)
         xml_bytes = fg.rss_str(pretty=True)
         xml_str = xml_bytes.decode("utf-8") if isinstance(xml_bytes, bytes) else xml_bytes
         FEED_PATH.write_text(xml_str, encoding="utf-8")
@@ -250,7 +248,7 @@ def main():
         LOG.error("[단계: feed.xml 생성] %s", e)
         raise
 
-    print("✅ feed updated: public/feed.xml")
+    print("✅ feed updated: feed.xml")
     print("✅ episodes updated: data/episodes.json")
 
 

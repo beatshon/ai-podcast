@@ -1,36 +1,14 @@
-**AI Trend Podcast**
-
-(Opening)
-안녕하세요! 오늘의 AI 트렌드 팟캐스트에 어서옵니다. AI가日常 생활에 무척 영향력을 가질 뿐 아니라, 비즈니스 세계에서도 새로운 기회를 제공하고 있습니다.
-
-**News 1: OpenAI appoints Chief People Officer**
-OpenAI는 Arvind KC를 인사하여 회사의 확장, 문화 강화, 그리고 AI시대에서의 업무 변화 방향을 이끌어갈 새로운 직책인 주니퍼 (Chief People Officer)를 신설했습니다. 이러한 조치는 OpenAI가 더 큰 기업이 되면서 팀의 성장을 도모하고, AI 기술이 있는 회사의 문화를 강화하는 데 초점을 맞추었습니다.
-
-(Insight 1)
-이러한 조치가 AI에 대한 인식과 직무 개발에서 중요한 영향을 미칠 것입니다. 기업들은 이제 더 큰 팀을 구축하고, 인재를 찾는 데 있어 AI 기술을 적극적으로 활용할 필요가 있습니다.
-
-**News 2: Why we no longer evaluate SWE-bench Verified**
-SWE-bench Verified는 AI coding progress의 측정치가 increasingly contaminated되어 실제로는 Frontier coding progress를 나타내지 못합니다. OpenAI의 분석에 따르면 이러한 테스트들은 결함이 있고, 훈련 데이터 유출이 있습니다. 따라서 OpenAI는 SWE-bench Pro를 추천합니다.
-
-(Insight 2)
-이러한 조치가 AI coding progress의 실제 측정과 관련이 있을 것입니다. 기업들은 이제 AI coding progress를 정확하게 측정하는 데 있어 새로운 방안을 찾을 필요가 있습니다.
-
-**News 3: OpenAI announces Frontier Alliance Partners**
-OpenAI는 Frontier Alliance Partners를 발표하여, 이점 AI pilot부터 프로덕션까지의 확장에 도움이 될 것입니다. 이러한 파트너쉽은 AI agent의 보안적이고 확장 가능한 배포를 가능하게 합니다.
-
-(Insight 3)
-이러한 조치가 AI 기술을 통해 실제로 업무를 변화시키는 데 있어 새로운 기회를 제공할 것입니다. 기업들은 이제 AI pilot부터 프로덕션까지의 확장을 지원하는 파트너쉽을 찾을 필요가 있습니다.
-
-**Today's Action Ideas**
-1. 회사의 문화 강화를 위해 AI 기술을 적극적으로 활용할 수 있는 방법을 찾아보세요.
-2. AI coding progress를 실제로 측정하는 새로운 방안을 찾을 필요가 있습니다.
-3. AI pilot부터 프로덕션까지의 확장을 지원하는 파트너쉽을 찾을 필요가 있습니다.
-
-**Closing**
-이제 오늘의 AI 트렌드 팟캐스트가 끝나게 되었습니다. AI는日常 생활과 비즈니스 세계에 새로운 기회를 제공하고 있습니다. 다음주에도 AI 트렌드를 지속적으로 모니터링할 것입니다. 감사합니다!
-
-**Reference Links**
-
-* OpenAI Blog: Arvind KC appointed Chief People Officer
-* OpenAI Blog: Why we no longer evaluate SWE-bench Verified
-* OpenAI Blog: OpenAI announces Frontier Alliance Partners
+AI: Today's summary in one sentence: OpenAI shares its AI model's proof attempts for the First Proof math challenge.
+제이스: Hmm, sounds like they're testing their AI's problem-solving skills!
+AI: And we'll also be discussing two more news stories today. Let's dive into them!
+AI: So, OpenAI is sharing its AI model's proof attempts for the First Proof math challenge. This is a test of research-grade reasoning on expert-level problems.
+제이스: That's cool! So, what does this mean for us marketers?
+AI: It shows that AI can tackle complex problems and provides insights into how we can improve our own problem-solving abilities.
+AI: Next up, OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research. This is a crucial step in addressing AGI safety and security risks.
+제이스: Yeah, it's like they're saying, "Hey, we need to make sure our AI doesn't turn against us!"
+AI: Last but not least, OpenAI for India expands AI access across the country. This means building local infrastructure, powering enterprises, and advancing workforce skills.
+제이스: That's amazing! I mean, think about it – AI can help Indian businesses grow and create jobs!
+제이스: Alright, let's try something new today! Let's imagine we're OpenAI and we want to apply our proof attempts to a marketing problem. What if we used this same logic to test the effectiveness of different ad campaigns?
+AI: That's all for today, folks! Recap in one sentence: We discussed OpenAI's AI model proof attempts, its commitment to independent AI alignment research, and expansion into India.
+제이스: Thanks for tuning in! Don't forget to subscribe and check out our next episode... maybe we'll even try another experiment!
+AI: By the way, if you want to learn more about these stories, check out the links below:
