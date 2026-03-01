@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI 트렌드 브리핑</title>
+    <link>https://beatshon.github.io/ai-podcast</link>
+    <description>AI 트렌드를 마케팅/비즈니스 관점으로 해석합니다.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 01 Mar 2026 19:32:54 +0000</lastBuildDate>
+    <itunes:author>Jace</itunes:author>
+    <itunes:image href="https://beatshon.github.io/ai-podcast/cover.jpg"/>
+    <itunes:summary>AI 트렌드를 마케팅/비즈니스 관점으로 해석합니다.</itunes:summary>
+    <item>
+      <title>AI 트렌드 브리핑 - 2026-03-02</title>
+      <link>https://beatshon.github.io/ai-podcast/episodes/20260302.txt</link>
+      <description>대본: https://beatshon.github.io/ai-podcast/episodes/20260302.txt</description>
+      <guid isPermaLink="false">https://beatshon.github.io/ai-podcast/episodes/20260302.mp3</guid>
+      <enclosure url="https://beatshon.github.io/ai-podcast/episodes/20260302.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

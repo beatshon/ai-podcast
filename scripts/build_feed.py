@@ -61,13 +61,25 @@ def load_episode_script():
     return {"slug": slug, "title": title, "date": date_str, "script": script}
 
 
-def ensure_mp3_exists(slug: str) -> Path:
-    """public/episodes/{slug}.mp3 존재 여부 확인. 없으면 로그 후 종료."""
+def ensure_mp3_exists(slug: str) -> bool:
+    """public/episodes/{slug}.mp3 존재 여부. 없으면 로그 후 False."""
     mp3_path = EP_DIR / f"{slug}.mp3"
     if not mp3_path.exists():
-        LOG.error("mp3 not found: %s", mp3_path)
-        sys.exit(1)
-    return mp3_path
+        LOG.warning("mp3 not found: %s (기존 episodes만 URL 갱신)", mp3_path)
+        return False
+    return True
+
+
+def refresh_episode_urls(cfg: dict, episodes: list) -> None:
+    """episodes 리스트의 mp3/text URL을 현재 config site_url 기준으로 갱신."""
+    site = (cfg.get("podcast") or {}).get("site_url") or ""
+    site = site.rstrip("/")
+    for ep in episodes:
+        slug = ep.get("slug")
+        if not slug:
+            continue
+        ep["mp3"] = f"{site}/episodes/{slug}.mp3"
+        ep["text"] = f"{site}/episodes/{slug}.txt"
 
 
 def ensure_txt_exists(slug: str, script: str) -> Path:
@@ -204,13 +216,14 @@ def main():
         LOG.error("[단계: episode_script.json 로드] %s", e)
         raise
 
-    ensure_mp3_exists(ep_info["slug"])
+    mp3_ok = ensure_mp3_exists(ep_info["slug"])
 
-    try:
-        ensure_txt_exists(ep_info["slug"], ep_info.get("script", ""))
-    except Exception as e:
-        LOG.error("[단계: 대본 .txt 생성] %s", e)
-        raise
+    if mp3_ok:
+        try:
+            ensure_txt_exists(ep_info["slug"], ep_info.get("script", ""))
+        except Exception as e:
+            LOG.error("[단계: 대본 .txt 생성] %s", e)
+            raise
 
     try:
         episodes = load_episodes_list()
@@ -218,7 +231,10 @@ def main():
         LOG.error("[단계: episodes.json 로드] %s", e)
         raise
 
-    episodes = register_episode_if_new(cfg, episodes, ep_info)
+    if mp3_ok:
+        episodes = register_episode_if_new(cfg, episodes, ep_info)
+
+    refresh_episode_urls(cfg, episodes)
 
     try:
         save_episodes_list(episodes)

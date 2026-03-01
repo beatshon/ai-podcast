@@ -2,9 +2,9 @@ podcast:
   title: "AI 트렌드 브리핑"
   author: "Jace"
   description: "AI 트렌드를 마케팅/비즈니스 관점으로 해석합니다."
-  site_url: "https://example.com/ai-podcast"
+  site_url: "https://beatshon.github.io/ai-podcast"
   language: "ko"
-  image_url: "https://example.com/ai-podcast/cover.jpg"
+  image_url: "https://beatshon.github.io/ai-podcast/cover.jpg"
 
 schedule:
   max_items_per_day: 6
