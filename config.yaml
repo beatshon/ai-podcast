@@ -15,7 +15,7 @@ ollama:
 
 tts:
   voice: "ko-KR-SunHiNeural"
-  rate: "+0%"
+  rate: "-5%"
   volume: "+0%"
 
 sources:
