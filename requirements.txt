@@ -1,0 +1,6 @@
+feedparser
+pyyaml
+requests
+feedgen
+python-slugify
+edge-tts

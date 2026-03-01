@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-02",
+  "slug": "20260302",
+  "title": "AI 트렌드 브리핑 - 2026-03-02",
+  "script": "**AI Trend Podcast**\n\n(Opening)\n안녕하세요! 오늘의 AI 트렌드 팟캐스트에 어서옵니다. AI가日常 생활에 무척 영향력을 가질 뿐 아니라, 비즈니스 세계에서도 새로운 기회를 제공하고 있습니다.\n\n**News 1: OpenAI appoints Chief People Officer**\nOpenAI는 Arvind KC를 인사하여 회사의 확장, 문화 강화, 그리고 AI시대에서의 업무 변화 방향을 이끌어갈 새로운 직책인 주니퍼 (Chief People Officer)를 신설했습니다. 이러한 조치는 OpenAI가 더 큰 기업이 되면서 팀의 성장을 도모하고, AI 기술이 있는 회사의 문화를 강화하는 데 초점을 맞추었습니다.\n\n(Insight 1)\n이러한 조치가 AI에 대한 인식과 직무 개발에서 중요한 영향을 미칠 것입니다. 기업들은 이제 더 큰 팀을 구축하고, 인재를 찾는 데 있어 AI 기술을 적극적으로 활용할 필요가 있습니다.\n\n**News 2: Why we no longer evaluate SWE-bench Verified**\nSWE-bench Verified는 AI coding progress의 측정치가 increasingly contaminated되어 실제로는 Frontier coding progress를 나타내지 못합니다. OpenAI의 분석에 따르면 이러한 테스트들은 결함이 있고, 훈련 데이터 유출이 있습니다. 따라서 OpenAI는 SWE-bench Pro를 추천합니다.\n\n(Insight 2)\n이러한 조치가 AI coding progress의 실제 측정과 관련이 있을 것입니다. 기업들은 이제 AI coding progress를 정확하게 측정하는 데 있어 새로운 방안을 찾을 필요가 있습니다.\n\n**News 3: OpenAI announces Frontier Alliance Partners**\nOpenAI는 Frontier Alliance Partners를 발표하여, 이점 AI pilot부터 프로덕션까지의 확장에 도움이 될 것입니다. 이러한 파트너쉽은 AI agent의 보안적이고 확장 가능한 배포를 가능하게 합니다.\n\n(Insight 3)\n이러한 조치가 AI 기술을 통해 실제로 업무를 변화시키는 데 있어 새로운 기회를 제공할 것입니다. 기업들은 이제 AI pilot부터 프로덕션까지의 확장을 지원하는 파트너쉽을 찾을 필요가 있습니다.\n\n**Today's Action Ideas**\n1. 회사의 문화 강화를 위해 AI 기술을 적극적으로 활용할 수 있는 방법을 찾아보세요.\n2. AI coding progress를 실제로 측정하는 새로운 방안을 찾을 필요가 있습니다.\n3. AI pilot부터 프로덕션까지의 확장을 지원하는 파트너쉽을 찾을 필요가 있습니다.\n\n**Closing**\n이제 오늘의 AI 트렌드 팟캐스트가 끝나게 되었습니다. AI는日常 생활과 비즈니스 세계에 새로운 기회를 제공하고 있습니다. 다음주에도 AI 트렌드를 지속적으로 모니터링할 것입니다. 감사합니다!\n\n**Reference Links**\n\n* OpenAI Blog: Arvind KC appointed Chief People Officer\n* OpenAI Blog: Why we no longer evaluate SWE-bench Verified\n* OpenAI Blog: OpenAI announces Frontier Alliance Partners",
+  "sources": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Arvind KC appointed Chief People Officer",
+      "link": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "published": "Tue, 24 Feb 2026 13:40:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "published": "Mon, 23 Feb 2026 11:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "link": "https://openai.com/index/frontier-alliance-partners",
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "published": "Mon, 23 Feb 2026 05:30:00 GMT"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+podcast:
+  title: "AI 트렌드 브리핑"
+  author: "Jace"
+  description: "AI 트렌드를 마케팅/비즈니스 관점으로 해석합니다."
+  site_url: "https://example.com/ai-podcast"
+  language: "ko"
+  image_url: "https://example.com/ai-podcast/cover.jpg"
+
+schedule:
+  max_items_per_day: 6
+  top_news: 3
+
+ollama:
+  model: "llama3:8b"
+
+tts:
+  voice: "ko-KR-SunHiNeural"
+  rate: "+0%"
+  volume: "+0%"
+
+sources:
+  - name: "OpenAI Blog"
+    rss: "https://openai.com/blog/rss.xml"
+  - name: "Hugging Face Blog"
+    rss: "https://huggingface.co/blog/feed.xml"
+  - name: "Google AI Blog"
+    rss: "https://blog.google/technology/ai/rss/"

@@ -1,0 +1,562 @@
+[
+  {
+    "source": "OpenAI Blog",
+    "title": "Our agreement with the Department of War",
+    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "published": "Sat, 28 Feb 2026 12:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "link": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "link": "https://openai.com/index/amazon-partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Scaling AI for everyone",
+    "link": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "An update on our mental health-related work",
+    "link": "https://openai.com/index/update-on-mental-health-related-work",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+    "published": "Fri, 27 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "published": "Thu, 26 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "link": "https://openai.com/index/figma-partnership",
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "published": "Thu, 26 Feb 2026 06:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "published": "Wed, 25 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Arvind KC appointed Chief People Officer",
+    "link": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "published": "Tue, 24 Feb 2026 13:40:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "published": "Mon, 23 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "link": "https://openai.com/index/frontier-alliance-partners",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "published": "Mon, 23 Feb 2026 05:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Our First Proof submissions",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "published": "Fri, 20 Feb 2026 14:30:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "published": "Thu, 19 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing OpenAI for India",
+    "link": "https://openai.com/index/openai-for-india",
+    "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "published": "Wed, 18 Feb 2026 21:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing EVMbench",
+    "link": "https://openai.com/index/introducing-evmbench",
+    "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+    "published": "Wed, 18 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics",
+    "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+    "published": "Fri, 13 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+    "published": "Fri, 13 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "link": "https://openai.com/index/beyond-rate-limits",
+    "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+    "published": "Fri, 13 Feb 2026 09:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Scaling social science research",
+    "link": "https://openai.com/index/scaling-social-science-research",
+    "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "published": "Fri, 13 Feb 2026 09:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "published": "Thu, 12 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering",
+    "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+    "published": "Wed, 11 Feb 2026 09:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "published": "Mon, 09 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "published": "Mon, 09 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "link": "https://openai.com/index/our-approach-to-localization",
+    "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+    "published": "Fri, 06 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "published": "Thu, 05 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing Trusted Access for Cyber",
+    "link": "https://openai.com/index/trusted-access-for-cyber",
+    "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "published": "Thu, 05 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing OpenAI Frontier",
+    "link": "https://openai.com/index/introducing-openai-frontier",
+    "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "published": "Thu, 05 Feb 2026 06:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "GPT-5.3-Codex System Card",
+    "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "published": "Thu, 05 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Navigating health questions with ChatGPT",
+    "link": "https://openai.com/index/navigating-health-questions",
+    "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "published": "Thu, 05 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "link": "https://huggingface.co/blog/moe-transformers",
+    "summary": "",
+    "published": "Thu, 26 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+    "summary": "",
+    "published": "Tue, 24 Feb 2026 00:00:21 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "summary": "",
+    "published": "Fri, 20 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "link": "https://huggingface.co/blog/unsloth-jobs",
+    "summary": "",
+    "published": "Fri, 20 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "summary": "",
+    "published": "Wed, 18 Feb 2026 16:15:45 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "summary": "",
+    "published": "Wed, 18 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "summary": "",
+    "published": "Fri, 13 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "link": "https://huggingface.co/blog/openenv-turing",
+    "summary": "",
+    "published": "Thu, 12 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Transformers.js v4 Preview: Now Available on NPM!",
+    "link": "https://huggingface.co/blog/transformersjs-v4",
+    "summary": "",
+    "published": "Mon, 09 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Introducing SyGra Studio",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "summary": "",
+    "published": "Thu, 05 Feb 2026 16:52:28 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "link": "https://huggingface.co/blog/community-evals",
+    "summary": "",
+    "published": "Wed, 04 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "summary": "",
+    "published": "Tue, 03 Feb 2026 17:40:14 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "summary": "",
+    "published": "Tue, 03 Feb 2026 15:03:19 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "summary": "",
+    "published": "Tue, 03 Feb 2026 11:25:53 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "link": "https://huggingface.co/blog/daggr",
+    "summary": "",
+    "published": "Thu, 29 Jan 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "link": "https://huggingface.co/blog/upskill",
+    "summary": "",
+    "published": "Wed, 28 Jan 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "summary": "",
+    "published": "Tue, 27 Jan 2026 15:01:45 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "summary": "",
+    "published": "Tue, 27 Jan 2026 10:26:42 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "summary": "",
+    "published": "Tue, 27 Jan 2026 01:53:15 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "summary": "",
+    "published": "Wed, 21 Jan 2026 06:25:31 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "One Year Since the “DeepSeek Moment”",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "summary": "",
+    "published": "Tue, 20 Jan 2026 15:02:10 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Differential Transformer V2",
+    "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "summary": "",
+    "published": "Tue, 20 Jan 2026 03:20:57 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "link": "https://huggingface.co/blog/waypoint-1",
+    "summary": "",
+    "published": "Tue, 20 Jan 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Open Responses: What you need to know",
+    "link": "https://huggingface.co/blog/open-responses",
+    "summary": "",
+    "published": "Thu, 15 Jan 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "summary": "",
+    "published": "Mon, 05 Jan 2026 22:56:51 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "summary": "",
+    "published": "Mon, 05 Jan 2026 09:16:51 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "summary": "",
+    "published": "Mon, 05 Jan 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "summary": "",
+    "published": "Tue, 23 Dec 2025 14:07:35 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "link": "https://huggingface.co/blog/tokenizers",
+    "summary": "",
+    "published": "Thu, 18 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+    "summary": "",
+    "published": "Wed, 17 Dec 2025 13:22:18 GMT"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+    "published": "Thu, 26 Feb 2026 18:55:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+    "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+    "published": "Thu, 26 Feb 2026 18:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Build with Nano Banana 2, our best image generation and editing model",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+    "summary": "Build with Nano Banana 2",
+    "published": "Thu, 26 Feb 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "summary": "Nano Banana 2 text with AI generated images around it",
+    "published": "Thu, 26 Feb 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "See the whole picture and find the look with Circle to Search",
+    "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+    "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+    "published": "Wed, 25 Feb 2026 18:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "A more intelligent Android on Samsung Galaxy S26",
+    "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+    "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results.",
+    "published": "Wed, 25 Feb 2026 18:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "“No technology has me dreaming bigger than AI”",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+    "summary": "a stylized design resembling the Ashoka Chakra with colorful network lines and text reading \"भारत 2026 INDIA.\" A vertical line separates it from the Google logo on the right, all set against a light blue gradient background with a faint grid pattern.",
+    "published": "Thu, 19 Feb 2026 04:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "AI Impact Summit 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+    "published": "Thu, 19 Feb 2026 04:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+    "summary": "Image showing sample tracks created with Lyria 3",
+    "published": "Wed, 18 Feb 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+    "summary": "four people seated on a conference stage",
+    "published": "Wed, 18 Feb 2026 10:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Our 2026 Responsible AI Progress Report",
+    "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+    "summary": "an illustration of blue and white cubes",
+    "published": "Tue, 17 Feb 2026 22:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "summary": "Gemini 3 Deep Think logo",
+    "published": "Thu, 12 Feb 2026 16:13:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "9 fun questions to try asking Google Photos",
+    "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+    "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+    "published": "Tue, 10 Feb 2026 17:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+    "summary": "User profile on smartphone connected to security, media, and settings icons.",
+    "published": "Tue, 10 Feb 2026 02:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+    "published": "Thu, 05 Feb 2026 17:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+    "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+    "published": "Thu, 05 Feb 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+    "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial’",
+    "published": "Thu, 05 Feb 2026 14:30:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "The latest AI news we announced in January",
+    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+    "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+    "published": "Wed, 04 Feb 2026 16:55:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "How we’re helping preserve the genetic information of endangered species with AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+    "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+    "published": "Mon, 02 Feb 2026 18:00:00 +0000"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "Advancing AI benchmarking with Game Arena",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+    "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+    "published": "Mon, 02 Feb 2026 17:00:00 +0000"
+  }
+]
